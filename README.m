@@ -1,3 +1,7 @@
 % README
 % AUTHOR: Jason Weible
 % DESCRIPTION: Playground for learning parallel MATLAB
+% HARDWARE:
+% PROCESSOR:AMD Ryzen 9 5900X 12-Core 3.70GHz
+% MEMORY: 32GB
+% GRAPHICS: Nvidia 3080ti 12GB VRAM
